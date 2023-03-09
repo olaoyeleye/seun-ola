@@ -3,4 +3,4 @@ this is a sample text file
 second infor to test
 master added this line
 
-this line is now from dev
+testing sync from master
